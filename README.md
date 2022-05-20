@@ -5,7 +5,7 @@ This modification adds advanced way to farm, new farming mechanics and new machi
 
 # 📚 Wiki Contributors
 ### GitHub Wiki
-Feel free to use the Wiki tab to add or find documentation about the modification.  
+Feel free to use the [Wiki tab](https://github.com/MC-Cultivation/Cultivation/wiki) to add or find documentation about the modification.  
   
 I have left it open for the community to contribute to the mod by creating, modifing and updating the pages.  
   
