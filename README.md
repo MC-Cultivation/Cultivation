@@ -34,13 +34,13 @@ Feature requests so be posted under the discussions tab under ideas.
 - Make sure to check back on your issue to ensure we don't need additonal information.  
   If aditional information is not provided the issue will be closed.
 
+# 🚨 License
+[GNU General Public License v3.0](https://github.com/MC-Cultivation/Cultivation/blob/main/LICENSE)
+- In short any copies of the content must be under the same licence and open sourced.
+- Also provide the source of the orginal GitHub repository for credits and documentation so people know where the branch came from.
+
 # 🔗 Official Sites
 - [Official Website](https://mc-cultivation.github.io/Cultivation/)
 - [Official Trello Workspace](https://trello.com/b/cWsqvIOg/cultivation)
 - Official MCreator Page (Coming soon!)
 - Official CurseForge Page (Comming soon!)
-
-# 🚨 License
-[GNU General Public License v3.0](https://github.com/MC-Cultivation/Cultivation/blob/main/LICENSE)
-- In short any copies of the content must be under the same licence and open sourced.
-- Also provide the source of the orginal GitHub repository for credits and documentation so people know where the branch came from.
