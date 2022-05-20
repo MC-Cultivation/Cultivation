@@ -12,7 +12,7 @@ I have left it open for the community to contribute to the mod by creating, modi
 If I have time to add documentation I will but working on the mod takes a lot of the time so the wiki will be mostly community driven.
 
 # 💬 Discussions
-This is the place to share your ideas and suggestions and discuss the mod with other members.  
+This is the place to [share your ideas](https://github.com/MC-Cultivation/Cultivation/discussions/categories/ideas) and suggestions and discuss the mod with other members.  
   
 The ideas category can be used for feature requests for the mod, to avoid cluttering of the issues tab.
 
