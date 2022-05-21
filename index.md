@@ -1,4 +1,4 @@
-| [Home](https://mc-cultivation.github.io/Cultivation/) | [FAQ](https://mc-cultivation.github.io/Cultivation/FAQ) | [Downloads](https://mc-cultivation.github.io/Cultivation/Downloads) | [News](https://mc-cultivation.github.io/Cultivation/News) | [Gallery](https://mc-cultivation.github.io/Cultivation/Gallery) |
+| [Home](https://mc-cultivation.github.io/Cultivation/) | [FAQ](https://mc-cultivation.github.io/Cultivation/faq) | [Downloads](https://mc-cultivation.github.io/Cultivation/downloads) | [News](https://mc-cultivation.github.io/Cultivation/news) | [Gallery](https://mc-cultivation.github.io/Cultivation/gallery) |
 
 ## Licence and Disclaimer
 We grant everyone permission to added, remove, edit, and use the files and script.
