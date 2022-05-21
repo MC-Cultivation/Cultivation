@@ -1,4 +1,4 @@
-| [Home](https://mc-cultivation.github.io/Cultivation/) | 
+| [Home](https://mc-cultivation.github.io/Cultivation/) | [FAQ](https://mc-cultivation.github.io/Cultivation/FAQ) | [Downloads](https://mc-cultivation.github.io/Cultivation/Downloads) | [News](https://mc-cultivation.github.io/Cultivation/News) | [Gallery](https://mc-cultivation.github.io/Cultivation/Gallery) |
 
 ## FAQ
 - **When will the mod be released?**  
