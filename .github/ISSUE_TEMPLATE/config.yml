@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Official Wiki"
+    url: https://github.com/MC-Cultivation/Cultivation/wiki
+    about: You can find more information above the mod on the offical wiki.
+  - name: "Upcoming Features"
+    url: https://trello.com/b/cWsqvIOg/cultivation
+    about: You can find a list of upcoming features on our official Trello workspace.
+  - name: "Feedback and Requests"
+    url: https://github.com/MC-Cultivation/Cultivation/discussions/categories/ideas
+    about: Share your feature requiests and ideas for the mod here.
+  - name: "Discusss Cultivation"
+    url: https://github.com/MC-Cultivation/Cultivation/discussions/categories/general
+    about: Discusss the modification with other community members.
