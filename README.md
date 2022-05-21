@@ -41,6 +41,6 @@ Feature requests so be posted under the discussions tab under ideas.
 
 # 🔗 Official Sites
 - [Official Website](https://mc-cultivation.github.io/Cultivation/)
-- [Official Trello Workspace](https://trello.com/b/cWsqvIOg/cultivation)
+- [Official Trello Workspace](https://trello.com/cultivation35)
 - Official MCreator Page (Coming soon!)
 - Official CurseForge Page (Comming soon!)
