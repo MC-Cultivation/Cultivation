@@ -1,4 +1,4 @@
-| Home |
+| [Home](https://mc-cultivation.github.io/Cultivation/) |
 | --- |
 
 ## FAQ
