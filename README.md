@@ -17,7 +17,7 @@ This is the place to [share your ideas](https://github.com/MC-Cultivation/Cultiv
 The ideas category can be used for feature requests for the mod, to avoid cluttering of the issues tab.
 
 # 🐛 Issues & Bug Reports
-Use the [issues tab](https://github.com/MC-Cultivation/Cultivation/issues) to report bugs and other problems you may encounter with the mod.
+Use the [issues tab](https://github.com/MC-Cultivation/Cultivation/issues/new/choose) to report bugs and other problems you may encounter with the mod.
 
 The issue tab is the official way to report issues.  
   
